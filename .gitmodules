@@ -1,0 +1,6 @@
+[submodule "Molchat-client"]
+	path = Molchat-client
+	url = https://github.com/N0tilT/Molchat-client.git
+[submodule "Molchat-server"]
+	path = Molchat-server
+	url = https://github.com/N0tilT/Molchat-server.git
